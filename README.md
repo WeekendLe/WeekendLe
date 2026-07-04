@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Le Tuan
 
-<!--
-**WeekendLe/WeekendLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced **R&D Firmware Engineer** specializing in Power Electronics, Embedded Systems, and Direct Current (DC) Microgrids.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me & Alias
+* **Preferred Name:** Le Tuan
+* **Full Name:** Le-Nguyen Anh-Tuan
+* **Industry & Community Handles:** Troy Le / WeekendLe / Tuan Le
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Expertise
+* **Focus Areas:** Direct Current (DC) Microgrids, Power Electronics
+* **Firmware & Protocols:** Bare-metal C/C++, RTOS (FreeRTOS), communications
+* * **MCU:** TI TMS320F28379D, STM32, NXP MCXA,...
+* **Simulation & Design:** MATLAB/Simulink, SciLab, LTSpice, KiCad,...
+
+---
+
+## 🎓 Education & Experience
+* **R&D Firmware Engineer** | Power Electronics & DC Microgrids (Taiwan)
+* **M.S. in Electrical Engineering** | Taiwan 
+  * *Focus:* Power Electronics, PCB Design and Testing
+* **B.S. in Electrical Engineering** | Vietnam
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
