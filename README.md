@@ -8,7 +8,7 @@ Alongside embedded control, I have a passion for designing and testing physical 
 ## Skills
 
 ### **Firmware**
-* **Languages:** C/C++, MATLAB, Python
+* **Languages:** C, C++, MATLAB, Python
 * **Real-time OS:** FreeRTOS
 * **Protocols:** CAN bus, UART, USB
 * **Microcontrollers:** TI C2000 (TMS320 family), STM32, NXP MCXA.
