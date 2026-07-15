@@ -11,7 +11,7 @@ Alongside embedded control, I have a passion for designing and testing physical 
 * **Languages:** C, C++, MATLAB, Python
 * **Real-time OS:** FreeRTOS
 * **Protocols:** CAN bus, UART, USB
-* **Microcontrollers:** TI C2000 (TMS320 family), STM32, NXP MCXA.
+* **Microcontrollers:** TI C2000, STM32, NXP MCXA.
 
 ### **Hardware**
 * **Topologies:** DC-DC Converters (Buck, Boost, Full Bridge)
