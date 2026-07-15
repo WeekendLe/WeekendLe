@@ -12,7 +12,7 @@ Experienced **R&D Firmware Engineer** specializing in Power Electronics, Embedde
 
 ## Skills
 * **Focus Areas:** Direct Current (DC) Microgrids, Power Electronics
-* **Firmware & Protocols:** Bare-metal C/C++, RTOS (FreeRTOS), UART, CAN, USB,...
+* **Firmware & Protocols:** Bare-metal C/C++, FreeRTOS, UART, CAN, USB,...
 * **MCU:** TI TMS320, STM32, NXP MCXA,...
 * **Simulation & Design:** MATLAB/Simulink, SciLab, LTSpice, KiCad,...
 
@@ -21,7 +21,7 @@ Experienced **R&D Firmware Engineer** specializing in Power Electronics, Embedde
 ## Education & Experience
 * **R&D Firmware Engineer** | Power Electronics & DC Microgrids (Taiwan)
 * **M.S. in Electrical Engineering** | Taiwan 
-  * *Focus:* Power Electronics, PCB Design and Testing
+  * *Focus:* Power Electronics, PCB Design and Layout, Circuit Testing
 * **B.S. in Electrical Engineering** | Vietnam
 
 ---
