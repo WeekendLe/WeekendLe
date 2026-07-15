@@ -10,10 +10,10 @@ Experienced **R&D Firmware Engineer** specializing in Power Electronics, Embedde
 
 ---
 
-## Technical Expertise
+## Skills
 * **Focus Areas:** Direct Current (DC) Microgrids, Power Electronics
-* **Firmware & Protocols:** Bare-metal C/C++, RTOS (FreeRTOS), communications
-* * **MCU:** TI TMS320F28379D, STM32, NXP MCXA,...
+* **Firmware & Protocols:** Bare-metal C/C++, RTOS (FreeRTOS), UART, CAN, USB,...
+* * **MCU:** TI TMS320, STM32, NXP MCXA,...
 * **Simulation & Design:** MATLAB/Simulink, SciLab, LTSpice, KiCad,...
 
 ---
